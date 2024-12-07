@@ -37,6 +37,7 @@ public void  verify_user_has_ability_enter_promo()
 	
 	Assert.assertTrue(checkoutPage.VerifyPromoBtn());
 	Assert.assertTrue(checkoutPage.VerifyPlaceOrder());
+	System.out.println("Git practice");
 	
 }
 
